@@ -4,6 +4,7 @@ Be able to capture public Instagram feeds and display them on your site or appli
 Pre-requisites:
 
 *Unsemantic grid framework: https://unsemantic.com/
+
 *Jquery (2.2.4 or higher): https://code.jquery.com/
 
 
